@@ -5,3 +5,4 @@
 .classpath
 bcl-testing.iml
 target/
+debug.log

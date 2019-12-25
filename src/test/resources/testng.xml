@@ -2,8 +2,7 @@
 <suite name="Example test run">
     <test name="Simple Test">
         <classes>
-            <class name="com.bcl.CgcxSignupPageTest"/>
-            <class name="com.bcl.SignInPage"/>
+            <class name="com.bcl.test.VerifySignIn"/>
         </classes>
     </test>
 </suite>
