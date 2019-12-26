@@ -6,3 +6,4 @@
 bcl-testing.iml
 target/
 debug.log
+test-output/
