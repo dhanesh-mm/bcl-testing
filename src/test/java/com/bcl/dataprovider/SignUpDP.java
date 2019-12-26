@@ -3,7 +3,7 @@ package com.bcl.dataprovider;
 import org.testng.annotations.DataProvider;
 
 /**
- * Created by pmanickam on 12/25/2019 at 12:51 PM
+ * DataProvider class for SignUp page
  */
 public class SignUpDP {
 

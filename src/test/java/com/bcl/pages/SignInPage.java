@@ -8,7 +8,7 @@ import org.openqa.selenium.support.FindBy;
 import static com.bcl.config.DriverConfig.waitForPageLoad;
 
 /**
- * Created by pmanickam on 12/25/2019 at 11:23 AM
+ * SignIn Page Model
  */
 public class SignInPage {
 

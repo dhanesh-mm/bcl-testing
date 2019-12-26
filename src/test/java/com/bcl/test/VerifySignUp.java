@@ -9,6 +9,10 @@ import org.testng.Assert;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.Test;
 
+/**
+ * Test class for SignUpPage
+ */
+
 public class VerifySignUp {
 
     public static final String SIGNUP_PAGE = "https://www.cgcx.io/signup";

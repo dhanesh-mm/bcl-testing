@@ -8,7 +8,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 
 /**
- * Created by pmanickam on 12/25/2019 at 11:30 AM
+ * Driver Configuration
  */
 public class DriverConfig {
 

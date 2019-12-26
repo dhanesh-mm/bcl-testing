@@ -5,7 +5,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 
 /**
- * Created by pmanickam on 12/25/2019 at 12:40 PM
+ * SignUp Page Model
  */
 public class SignUpPage {
 

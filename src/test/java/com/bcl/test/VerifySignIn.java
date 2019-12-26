@@ -17,6 +17,10 @@ import org.testng.annotations.Test;
 
 import java.util.concurrent.TimeUnit;
 
+/**
+ * Test class for SignInPage
+ */
+
 public class VerifySignIn {
 
     public static final String SIGNIN_PAGE = "https://www.cgcx.io/signin";

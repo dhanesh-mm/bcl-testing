@@ -11,7 +11,7 @@ import org.testng.annotations.Test;
 import java.util.concurrent.TimeUnit;
 
 /**
- * Created by pmanickam on 12/25/2019 at 10:31 AM
+ * Test class for HomePage
  */
 public class VerifyHome {
 

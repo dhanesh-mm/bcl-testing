@@ -6,7 +6,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.ie.InternetExplorerDriver;
 
 /**
- * Created by pmanickam on 12/25/2019 at 10:26 AM
+ * BrowserFactory Class to create different drivers
  */
 public class BrowserFactory {
 
